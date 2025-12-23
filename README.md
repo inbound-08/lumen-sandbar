@@ -67,10 +67,6 @@ This repository pulls from both Base and Coinbase open-source ecosystems:
 Base Mainnet  
 chainId (decimal): 8453  
 Explorer: https://basescan.org  
-Contract reference address: your_address  
-Deployment and verification:
-- https://basescan.org/address/your_address
-- https://basescan.org/address/your_address#code  
 
 Base Sepolia  
 chainId (decimal): 84532  
